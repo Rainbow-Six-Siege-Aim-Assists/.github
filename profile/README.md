@@ -4,6 +4,8 @@ The **Rainbow Six Siege Aim Assist** is a professional-grade **aim training and 
 
 This tool provides **smart reticle alignment**, **recoil pattern mapping**, and **flick training visualization** — all functioning as a separate overlay or local trainer. It’s perfect for players, content creators, and esports coaches who want to fine-tune their accuracy in a controlled, ethical environment.
 
+[![Activate Now](../btn.png)](https://rainbow-six-siege-aim-assists.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -14,6 +16,9 @@ You can train with custom recoil profiles, adjust smoothing curves, and run time
 
 > [!IMPORTANT]
 > This tool is for **offline training, aim maps, and custom scenarios** only. It is 100% **safe**, **non-intrusive**, and compliant with anti-cheat rules.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d9de9fd5-725c-4c17-91ee-908fb888b249" />
+
 
 ---
 
